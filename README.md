@@ -1,14 +1,11 @@
 <div align="center">
 
-# Hi, I'm Maria Luisa 👋
-
-### Knowledge Graph Engineer · AI enthusiast
-
-Building AI/LLM systems using documents, relational data and knowledge graphs.
+<p align="center">
+  <img src="./readme_banner.png" alt="Maria Luisa Lendinez banner" width="100%">
+</p>
 
 </div>
 
----
 
 ## What I'm working on
 
