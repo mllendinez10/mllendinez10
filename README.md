@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Maria Luisa 👋
 
-<!--
-**mllendinez10/mllendinez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Knowledge Graph Engineer** interested in building practical AI systems that connect LLMs with different knowledge bases.
 
-Here are some ideas to get you started:
+My current focus is on understanding how LLMs can work with different types of enterprise knowledge, from documents to relational databases and knowledge graphs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things from scratch first to understand what is happening under the hood before moving to higher level frameworks.
+
+## What I'm working on
+
+- Retrieval Augmented Generation (RAG)
+- Text-to-SQL and structured data
+- Knowledge graphs and GraphRAG
+- Retrieval evaluation
+- Python and local LLM applications
+
+## Featured Projects
+
+### rag-from-scratch
+Building a RAG pipeline from scratch in Python to understand document loading, chunking, embeddings, vector storage, hybrid retrieval, evaluation, and LLM-based generation.
+
+### text-to-sql-from-scratch
+Building a Text-to-SQL pipeline from scratch in Python to understand how an LLM can answer questions using a SQL database as its knowledge base.
+
+## Technologies
+
+Python · SQL · Knowledge Graphs · ChromaDB · BM25 · Sentence Transformers · Ollama · Streamlit
