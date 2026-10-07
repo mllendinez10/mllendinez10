@@ -11,7 +11,7 @@ Currently, I am exploring how different forms of data can be made accessible to 
 Building chatbots that answer product related questions using:
 - RAG for unstructured data such as documents
 - Text-to-SQL for structured data stored in relational databases
-- Text-to-Cypher for structures data stored in knowledge graphs
+- Text-to-Cypher for structured data stored in knowledge graphs
 
 A key focus of my work is evaluation: comparing answer quality and retrieval performance across different question types to understand when RAG, Text-to-SQL or Text-to-Cypher provide the best context.
 
