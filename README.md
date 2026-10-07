@@ -11,9 +11,9 @@ Currently, I am exploring how different forms of data can be made accessible to 
 Building chatbots that answer product related questions using:
 - RAG for unstructured data such as documents
 - Text-to-SQL for structured data stored in relational databases
-- GraphRAG for connected data stored in knowledge graphs
+- Text-to-Cypher for structures data stored in knowledge graphs
 
-A key focus of my work is evaluation: comparing answer quality and retrieval performance across different question types to understand when RAG, Text-to-SQL or GraphRAG provide the best context.
+A key focus of my work is evaluation: comparing answer quality and retrieval performance across different question types to understand when RAG, Text-to-SQL or Text-to-Cypher provide the best context.
 
 ## Featured Projects
 
@@ -21,12 +21,13 @@ A key focus of my work is evaluation: comparing answer quality and retrieval per
 |---|---|
 | [**rag-from-scratch**](https://github.com/mllendinez10/rag-from-scratch) | RAG chatbot built from scratch to answer questions from unstructured data such as documents, using keyword, semantic and hybrid retrieval. |
 | [**text-to-sql-from-scratch**](https://github.com/mllendinez10/text-to-sql-from-scratch) |Text-to-SQL chatbot that turns natural language questions into SQL, queries structured product data and returns a clear answer |
+| [**text-to-cypher-from-scratch**](https://github.com/mllendinez10/text-to-cypher-from-scratch) |Text-to-Cypher chatbot that turns natural language questions into Cypher, queries product data in a knowledge graph and returns a clear answer |
 
 
 ## Technologies
 
 <div align="center">
 
-Python · SQL · Knowledge Graphs · Vector Databases · RAG · Text-to-SQL · GraphRAG · LLMs
+Python · SQL · Cypher · Knowledge Graphs · Vector Databases · RAG · Text-to-SQL · Text-to-Cypher · LLMs
 
 </div>
