@@ -28,6 +28,6 @@ A key focus of my work is evaluation: comparing answer quality and retrieval per
 
 <div align="center">
 
-Python · SQL · Cypher · Knowledge Graphs · Vector Databases · RAG · Text-to-SQL · Text-to-Cypher · LLMs
+Python · Relational Databases · Knowledge Graphs · Vector Databases · SQL · Cypher · RAG · Text-to-SQL · Text-to-Cypher · LLMs
 
 </div>
