@@ -11,7 +11,7 @@ Currently, I am exploring how different forms of data can be made accessible to 
 Building chatbots that answer product related questions using:
 - RAG for unstructured data such as documents
 - Text-to-SQL for structured data stored in relational databases
-- GraphRAG with Text2Cypher retrieval for connected data stored in knowledge graphs
+- GraphRAG with different retrieval methods for connected data stored in knowledge graphs
 
 A key focus of my work is evaluation: measuring answer quality and retrieval performance across different question types to understand the strengths and limitations of each approach.
 
