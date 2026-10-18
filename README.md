@@ -11,23 +11,23 @@ Currently, I am exploring how different forms of data can be made accessible to 
 Building chatbots that answer product related questions using:
 - RAG for unstructured data such as documents
 - Text-to-SQL for structured data stored in relational databases
-- Text-to-Cypher for structured data stored in knowledge graphs
+- GraphRAG with Text2Cypher retrieval for connected data stored in knowledge graphs
 
-A key focus of my work is evaluation: comparing answer quality and retrieval performance across different question types to understand when RAG, Text-to-SQL or Text-to-Cypher provide the best context.
+A key focus of my work is evaluation: measuring answer quality and retrieval performance across different question types to understand the strengths and limitations of each approach.
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [**rag-from-scratch**](https://github.com/mllendinez10/rag-from-scratch) | RAG chatbot built from scratch to answer questions from unstructured data such as documents, using keyword, semantic and hybrid retrieval. |
+| [**rag-from-scratch**](https://github.com/mllendinez10/rag-from-scratch) | RAG chatbot built from scratch to answer questions from unstructured data such as documents, using keyword, semantic and hybrid retrieval |
 | [**text-to-sql-from-scratch**](https://github.com/mllendinez10/text-to-sql-from-scratch) |Text-to-SQL chatbot that turns natural language questions into SQL, queries structured product data and returns a clear answer |
-| [**text-to-cypher-from-scratch**](https://github.com/mllendinez10/text-to-cypher-from-scratch) |Text-to-Cypher chatbot that turns natural language questions into Cypher, queries product data in a knowledge graph and returns a clear answer |
+| [**graphrag-text2cypher-from-scratch**](https://github.com/mllendinez10/graphrag-text2cypher-from-scratch) |GraphRAG chatbot built from scratch using Text2Cypher retrieval to generate Cypher queries from natural language questions and answer using connected product data in a knowledge graph |
 
 
 ## Technologies
 
 <div align="center">
 
-Python · Relational Databases · Knowledge Graphs · Vector Databases · SQL · Cypher · RAG · Text-to-SQL · Text-to-Cypher · LLMs
+Python · Relational Databases · Knowledge Graphs · Vector Databases · SQL · Cypher · RAG · Text-to-SQL · GraphRAG · LLMs
 
 </div>
