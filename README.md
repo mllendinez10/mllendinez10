@@ -8,13 +8,12 @@ Currently, I am exploring how different forms of data can be made accessible to 
 
 ## What I'm building
 
-Building chatbots that answer product related questions using:
+Building AI applications for product data using:
 - RAG for unstructured data such as documents
 - Text-to-SQL for structured data stored in relational databases
 - GraphRAG with different retrieval methods for connected data stored in knowledge graphs
 
-A key focus of my work is evaluation: measuring answer quality and retrieval performance across different question types to understand the strengths and limitations of each approach.
-
+A key focus of my work is evaluation: measuring retrieval and answer quality across different use cases to understand the strengths and limitations of each approach.
 ## Featured Projects
 
 | Project | Description |
@@ -22,6 +21,7 @@ A key focus of my work is evaluation: measuring answer quality and retrieval per
 | [**rag-from-scratch**](https://github.com/mllendinez10/rag-from-scratch) | RAG chatbot built from scratch to answer questions from unstructured data such as documents, using keyword, semantic and hybrid retrieval |
 | [**text-to-sql-from-scratch**](https://github.com/mllendinez10/text-to-sql-from-scratch) |Text-to-SQL chatbot that turns natural language questions into SQL, queries structured product data and returns a clear answer |
 | [**graphrag-text2cypher-from-scratch**](https://github.com/mllendinez10/graphrag-text2cypher-from-scratch) |GraphRAG chatbot built from scratch using Text2Cypher retrieval to generate Cypher queries from natural language questions and answer using connected product data in a knowledge graph |
+| [**graphrag-enhanced-vector-search-from-scratch**](https://github.com/mllendinez10/graphrag-enhanced-vector-search-from-scratch) |GraphRAG product finder built from scratch using graph enhanced vector search over descriptive product data to retrieve products based on user needs |
 
 
 ## Technologies
